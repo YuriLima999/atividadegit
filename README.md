@@ -1,4 +1,4 @@
-# Meu Projeto Git - versão main
+# Meu Projeto Git - Versão Final
 ## Aprendizados
 
 - Aprendi a usar git init, add e commit
