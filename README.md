@@ -1,4 +1,4 @@
-# Meu Projeto Git
+# Meu Projeto Git - Versão conflito
 ## Aprendizados
 
 - Aprendi a usar git init, add e commit
